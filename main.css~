@@ -1,0 +1,64 @@
+
+
+body{
+    margin:0px;
+    padding:0px;
+    
+}
+
+#leftcolumn{
+    width: 200px;
+    height: 650px;
+    float:left;
+    background-color:green;
+    
+    }
+#wrapper{
+  width: 100%;
+   
+   
+    
+    
+}
+#wrapper-inner{
+      width: 800px;
+    height: 200px;
+   
+    background-color:green;
+    
+}
+#header{
+     width: 800px;
+    height: 200px;
+   
+    background-color:blue;
+     
+    
+}
+#bodycontainer{
+    
+      width: 800px;
+   
+   background-color:black;
+    
+}
+
+#clear{
+    clear:both;
+    
+}
+#rightcolumn{
+     width: 600px;
+    height: 650px;
+    float:right;
+    background-color:grey;
+     
+    
+}
+#footer{
+      width: 800px;
+    height: 100px;
+   background-color:brown;
+    
+    clear:both;
+}
