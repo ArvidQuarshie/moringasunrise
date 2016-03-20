@@ -1,4 +1,50 @@
 
+#gallery1{
+ width: 300px;
+    height: 300px;
+    float:left;
+    background-color:green;
+}
+#gallery2{
+    width: 300px;
+    height: 300px;
+    float:left;
+    
+    background-color:blue;
+}
+#gallery3{
+width: 300px;
+    height: 300px;
+    float:left;
+    background-color:grey;
+}
+#gallery4{
+width: 300px;
+    height: 300px;
+    float:left;
+background-color:red;
+}
+
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+} 
 bogy{
     margin:0px;
     padding:0px;
@@ -7,9 +53,9 @@ bogy{
 
 #leftcolumn{
     width: 200px;
-    height: 650px;
+    height: 660px;
     float:left;
-    background-color:green;
+    background-color:#EEE9BF;
     
     }
 #wrapper{
@@ -28,9 +74,9 @@ bogy{
 }
 #header{
      width: 800px;
-    height: 200px;
+    height: 100px;
    
-    background-color:blue;
+    background-color:#EEDC82;
      
     
 }
@@ -48,16 +94,16 @@ bogy{
 }
 #rightcolumn{
      width: 600px;
-    height: 650px;
+    height: 660px;
     float:right;
-    background-color:grey;
+    background-color:#EEE9BF;
      
     
 }
 #footer{
       width: 800px;
     height: 100px;
-   background-color:brown;
+   background-color:#EEDC82;
     
     clear:both;
 }
