@@ -1,5 +1,4 @@
 
-
 body{
     margin:0px;
     padding:0px;
@@ -10,7 +9,7 @@ body{
     width: 200px;
     height: 650px;
     float:left;
-    background-color:green;
+    background-color:lightpink;
     
     }
 #wrapper{
@@ -24,7 +23,7 @@ body{
       width: 800px;
     height: 200px;
    
-    background-color:green;
+    background-color:lightpink;
     
 }
 #header{
@@ -51,7 +50,7 @@ body{
      width: 600px;
     height: 650px;
     float:right;
-    background-color:grey;
+    background-color:ghostwhite;
      
     
 }
