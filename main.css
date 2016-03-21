@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 #gallery1{
  width: 300px;
     height: 300px;
@@ -47,7 +45,6 @@ fieldset {
     padding-right: 0.75em;
     border: 2px groove (internal value);
 } 
->>>>>>> c8a0c42695dea42761af13e77a4ab4321515dffa
 bogy{
     margin:0px;
     padding:0px;
@@ -56,15 +53,9 @@ bogy{
 
 #leftcolumn{
     width: 200px;
-<<<<<<< HEAD
-    height: 650px;
-    float:left;
-    background-color:green;
-=======
     height: 660px;
     float:left;
     background-color:#EEE9BF;
->>>>>>> c8a0c42695dea42761af13e77a4ab4321515dffa
     
     }
 #wrapper{
@@ -83,15 +74,9 @@ bogy{
 }
 #header{
      width: 800px;
-<<<<<<< HEAD
-    height: 200px;
-   
-    background-color:blue;
-=======
     height: 100px;
    
     background-color:#EEDC82;
->>>>>>> c8a0c42695dea42761af13e77a4ab4321515dffa
      
     
 }
@@ -109,29 +94,16 @@ bogy{
 }
 #rightcolumn{
      width: 600px;
-<<<<<<< HEAD
-    height: 650px;
-    float:right;
-    background-color:grey;
-=======
     height: 660px;
     float:right;
     background-color:#EEE9BF;
->>>>>>> c8a0c42695dea42761af13e77a4ab4321515dffa
      
     
 }
 #footer{
       width: 800px;
     height: 100px;
-<<<<<<< HEAD
-   background-color:brown;
-    
-    clear:both;
-}
-=======
    background-color:#EEDC82;
     
     clear:both;
 }
->>>>>>> c8a0c42695dea42761af13e77a4ab4321515dffa
